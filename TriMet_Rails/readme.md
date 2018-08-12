@@ -29,7 +29,7 @@ The gaps of data in the plot were a concern. After doing some investigative quer
 
 After reaching this obstruction, I decided to look at plotting the locations of the delay events:
 
-![Delay Locations](TriMet_Rails/delay_stop_location.JPG?raw=true "delay_stop_location")
+![Delay Locations](/TriMet_Rails/delay_stop_location.JPG?raw=true "delay_stop_location")
 
 It was interesting to see the routes of the MAX lines plotted out by the delays. What was more interesting was the strange alternating trend in the mean delay value. In the plot you can see the value of the delay alternating in extremity in multiple lengths of routes. It would be interesting to see what exactly is causing this trend.
 
